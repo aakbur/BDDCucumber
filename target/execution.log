@@ -1,0 +1,33 @@
+2020-12-17 05:43:07 INFO  HomePage:27 - Secesfully click on Furom Button 
+2020-12-17 05:43:09 INFO  ForumLoginPage:34 - You entered Username is: aakbur@gmail.com
+2020-12-17 05:43:09 INFO  ForumLoginPage:55 - click login button 
+2020-12-17 05:43:11 INFO  Utility:40 - You enterd :true when it will pass then it must be it's true 
+2020-12-17 05:43:13 INFO  Utility:43 - Sucessfully verifyed: Welcome Mohammad Akbur
+2020-12-17 05:43:18 INFO  StudentPage:38 - Welcome Mohammad Akbur
+2020-12-17 16:00:02 INFO  HomePage:27 - Secesfully click on Furom Button 
+2020-12-17 16:00:04 INFO  ForumLoginPage:34 - You entered Username is: aakbur@gmail.com
+2020-12-17 16:00:04 INFO  ForumLoginPage:55 - click login button 
+2020-12-17 16:00:06 INFO  Utility:40 - You enterd :true when it will pass then it must be it's true 
+2020-12-17 16:00:08 INFO  Utility:43 - Sucessfully verifyed: Welcome Mohammad Akbur
+2020-12-17 16:00:13 INFO  StudentPage:38 - Welcome Mohammad Akbur
+2020-12-17 16:28:54 INFO  HomePage:27 - Secesfully click on Furom Button 
+2020-12-17 16:28:57 INFO  ForumLoginPage:34 - You entered Username is: aakbur@gmail.com
+2020-12-17 16:28:57 INFO  ForumLoginPage:55 - click login button 
+2020-12-17 16:28:59 INFO  Utility:40 - You enterd :true when it will pass then it must be it's true 
+2020-12-17 16:29:01 INFO  Utility:43 - Sucessfully verifyed: Welcome Mohammad Akbur
+2020-12-17 16:29:06 INFO  StudentPage:38 - Welcome Mohammad Akbur
+2020-12-17 16:32:08 INFO  HomePage:27 - Secesfully click on Furom Button 
+2020-12-17 16:32:19 INFO  HomePage:27 - Secesfully click on Furom Button 
+2020-12-17 20:10:51 INFO  HomePage:27 - Secesfully click on Furom Button 
+2020-12-17 20:12:32 INFO  HomePage:27 - Secesfully click on Furom Button 
+2020-12-17 20:12:34 INFO  ForumLoginPage:34 - You entered Username is: aakbur@gmail.com
+2020-12-17 20:12:35 INFO  ForumLoginPage:55 - click login button 
+2020-12-17 20:12:37 INFO  Utility:40 - You enterd :true when it will pass then it must be it's true 
+2020-12-17 20:12:39 INFO  Utility:43 - Sucessfully verifyed: Welcome Mohammad Akbur
+2020-12-17 20:12:44 INFO  StudentPage:38 - Welcome Mohammad Akbur
+2020-12-17 20:25:38 INFO  HomePage:27 - Secesfully click on Furom Button 
+2020-12-17 20:25:40 INFO  ForumLoginPage:34 - You entered Username is: aakbur@gmail.com
+2020-12-17 20:25:41 INFO  ForumLoginPage:55 - click login button 
+2020-12-17 20:25:43 INFO  Utility:40 - You enterd :true when it will pass then it must be it's true 
+2020-12-17 20:25:45 INFO  Utility:43 - Sucessfully verifyed: Welcome Mohammad Akbur
+2020-12-17 20:25:50 INFO  StudentPage:38 - Welcome Mohammad Akbur
