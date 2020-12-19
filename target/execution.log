@@ -31,3 +31,6 @@
 2020-12-17 20:25:43 INFO  Utility:40 - You enterd :true when it will pass then it must be it's true 
 2020-12-17 20:25:45 INFO  Utility:43 - Sucessfully verifyed: Welcome Mohammad Akbur
 2020-12-17 20:25:50 INFO  StudentPage:38 - Welcome Mohammad Akbur
+2020-12-18 04:05:42 INFO  HomePage:27 - Secesfully click on Furom Button 
+2020-12-18 04:05:45 INFO  ForumLoginPage:34 - You entered Username is: aakbur@gmail.com
+2020-12-18 04:05:45 INFO  ForumLoginPage:55 - click login button 

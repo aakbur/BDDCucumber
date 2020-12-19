@@ -39,8 +39,7 @@ public class Browser {
 
 	public static void driverForMac(String browser) {
 		if (browser.equalsIgnoreCase("chrome")) {
-			System.setProperty("webdriver.chrome.driver",
-					basepath + "\\src\\test\\resources\\drivers\\mac\\chromedriver");
+			System.setProperty("webdriver.chrome.driver","/Users/aakbur/Desktop/Selenium/chromedriver");
 			dr = new ChromeDriver();
 		} else if (browser.equalsIgnoreCase("firefox")) {
 			System.setProperty("webdriver.gicko.driver",
