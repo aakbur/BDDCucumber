@@ -9,12 +9,11 @@ import com.osa.pages.HomePage;
 import com.osa.pages.StudentPage;
 import com.utility.Utility;
 
-import io.cucumber.java.en.And;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
-import io.cucumber.junit.Cucumber;
-@RunWith(Cucumber.class)
+import cucumber.api.java.en.And;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+@RunWith(cucumber.api.junit.Cucumber.class)
 public class Login {
 	
 	public WebDriver dr;
