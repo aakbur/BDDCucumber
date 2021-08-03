@@ -25,7 +25,8 @@ public class ForumLoginPage {
 	WebElement passwd;
 	@FindBy(id = "login_button")
 	WebElement login;
-	@FindBy(id="passwor")WebElement text;	
+	@FindBy(id="passwor")
+	WebElement text;	
 	By  printname=By.xpath("//div[@class=\"printName\"]//label");
 	By gettext=By.xpath("//p[@id='message']");
 

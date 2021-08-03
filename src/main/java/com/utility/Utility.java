@@ -6,8 +6,9 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 
-import junit.framework.Assert;
+//import junit.framework.Assert;
 
 public class Utility {
 	
