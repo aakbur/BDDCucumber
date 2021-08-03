@@ -17,8 +17,15 @@ public class ForumLoginPage {
 	public ForumLoginPage(WebDriver dr) {
 		this.dr = dr;
 		PageFactory.initElements(dr, this);
-	}
+		//PageFactory.initElements(WebDriver driver, Object page);
 
+	}
+	/** 
+	 * This is the way We use @FindBy Instead of Finding the WebElement
+	 * 
+	 * //WebElement p=dr.findElement(By.xpath("valueOfTheXpath"));
+	 * 
+	 */
 	@FindBy(xpath = "//input[@id='username']")
 	WebElement userid;
 	@FindBy(xpath = "//input[@id='password']")
